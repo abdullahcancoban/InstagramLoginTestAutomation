@@ -26,7 +26,7 @@ The InstagramLoginTestAutomation GitHub project is focused on login function on 
 
 ---
 
-## 🔮 Feautres
+## 🔮 Features
 
 ### Distinctive Features
 
